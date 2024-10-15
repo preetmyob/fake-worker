@@ -5,4 +5,4 @@ services:
     #   context: .
     #   dockerfile: Dockerfile
     environment:
-      - GET_WORK_URL=http://headers.jsontest.com
+      - GET_WORK_URL=${GET_WORK_URL}
