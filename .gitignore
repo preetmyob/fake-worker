@@ -354,3 +354,4 @@ x64/
 x86/
 ~$*
 .buildkite/tempPipeline.yml
+venv/

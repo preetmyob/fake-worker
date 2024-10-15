@@ -1,0 +1,8 @@
+services:
+  worker:
+    image: worker:latest
+    # build:
+    #   context: .
+    #   dockerfile: Dockerfile
+    environment:
+      - GET_WORK_URL='http://headers.jsontest.com'
