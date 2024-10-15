@@ -29,7 +29,6 @@ GET_WORK_URL: http://headers.jsontest.com
    "Host": "headers.jsontest.com",
    "Via": "1.1 Umbrella_Proxy"
 }
-
 ```
 
 ## running via docker (directly)
